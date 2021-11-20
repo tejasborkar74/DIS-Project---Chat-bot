@@ -129,6 +129,6 @@ def get_response(input):
 #     return res
 
 
-print('Bot: Hey, I am a dictionary chat bot, you can ask me meaning, example, and other information related to words :');
+print("Bot: Hey, I am a dictionary chat bot, you can ask me meaning, example, and other information related to words :)")
 while True:
     print('Bot: ' + get_response(input('You: ')))
